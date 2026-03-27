@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Build output
+*.xpi
+build/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
